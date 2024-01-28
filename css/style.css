@@ -53,6 +53,8 @@ header{
     text-transform: uppercase;
     border-bottom: 1px solid transparent; 
     transition: .33s linear;
+    color: #626262;
+}
 }
 .menu ul li:last-child a{
     margin-right: 0;
@@ -232,7 +234,8 @@ footer{
 .pages ul li a{
     text-decoration: none;
     margin-right:20px;
-
+    color: #626262;
+}
 }
 .social{
     float: right;
